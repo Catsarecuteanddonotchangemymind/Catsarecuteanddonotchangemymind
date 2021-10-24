@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amos Bow - Genshin Impact
+* source:	https://sketchfab.com/3d-models/amos-bow-genshin-impact-42f58f9e8bfa4d31863a2d5aa44fe615
+* author:	Radhlya (https://sketchfab.com/Radhlya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amos Bow - Genshin Impact" (https://sketchfab.com/3d-models/amos-bow-genshin-impact-42f58f9e8bfa4d31863a2d5aa44fe615) by Radhlya (https://sketchfab.com/Radhlya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
